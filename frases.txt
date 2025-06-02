@@ -1,0 +1,5 @@
+Primeira frase
+Essa é uma nova frase mais longa para praticar o uso do Git na vida mais real.
+Estou modificando esses arquivos para trabalhar testes de git.
+vamos aprender 
+vamos ganhar dinheiro. 
